@@ -10,9 +10,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            test;
-            sa;
-            版本回退；
+            test
         </div>
     </form>
 </body>
